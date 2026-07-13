@@ -1,18 +1,18 @@
 # Real-Time-Market-Research-and-Trend-Analysis-Go-To-Go-Cars
 A real-time market research and trend analysis project for Go To Go Cars using Python, Pandas, Matplotlib, and Seaborn. The project analyzes India's shared mobility industry, competitor landscape, market growth, and customer trends through interactive visualizations and business insights.
-# 📊 Real-Time Market Research & Trend Analysis – Go To Go Cars
+#  Real-Time Market Research & Trend Analysis – Go To Go Cars
 
 A comprehensive market research and competitive analysis project focused on the **Indian Shared Mobility Industry**, developed for **Go To Go Cars**. This project leverages **Python**, **Pandas**, **Matplotlib**, and **Seaborn** to analyze market trends, competitor performance, customer demographics, and business opportunities through data-driven visualizations.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The shared mobility industry in India is experiencing rapid growth due to increasing urbanization, digital adoption, and demand for affordable transportation. This project provides actionable business insights by analyzing market trends, competitor performance, customer preferences, and industry growth to support strategic decision-making for **Go To Go Cars**.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze India's shared mobility market.
 - Compare major competitors in the industry.
@@ -23,7 +23,7 @@ The shared mobility industry in India is experiencing rapid growth due to increa
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Python
 - Pandas
@@ -34,7 +34,7 @@ The shared mobility industry in India is experiencing rapid growth due to increa
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Real-Time-Market-Research-and-Trend-Analysis-Go-To-Go-Cars
@@ -49,7 +49,7 @@ Real-Time-Market-Research-and-Trend-Analysis-Go-To-Go-Cars
 
 ---
 
-# 📈 Dashboard Preview
+# Dashboard Preview
 
 ## Complete Business Intelligence Dashboard
 
@@ -57,7 +57,7 @@ Real-Time-Market-Research-and-Trend-Analysis-Go-To-Go-Cars
 
 ---
 
-# 📊 Visualizations
+#  Visualizations
 
 ## 1. Market Growth Projection
 
@@ -131,7 +131,7 @@ Real-Time-Market-Research-and-Trend-Analysis-Go-To-Go-Cars
 
 ---
 
-# 🔍 Key Insights
+#  Key Insights
 
 - India's shared mobility industry is projected to grow significantly over the next decade.
 - Competitor benchmarking highlights opportunities for Go To Go Cars to strengthen its market position.
@@ -144,7 +144,7 @@ Real-Time-Market-Research-and-Trend-Analysis-Go-To-Go-Cars
 
 ---
 
-# 💼 Business Impact
+#  Business Impact
 
 This project demonstrates how data analytics can support:
 
@@ -157,7 +157,7 @@ This project demonstrates how data analytics can support:
 
 ---
 
-# 🚀 Future Enhancements
+#  Future Enhancements
 
 - Interactive Power BI Dashboard
 - Real-time API Integration
@@ -167,7 +167,7 @@ This project demonstrates how data analytics can support:
 
 ---
 
-# ▶️ How to Run
+# How to Run
 
 1. Clone this repository
 
@@ -191,24 +191,23 @@ jupyter notebook
 
 ---
 
-# 📜 License
+#  License
 
 This project is intended for educational and portfolio purposes.
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Vemula Subhash**
 
-📧 Email: vemulasubhash90@gmail.com
+ Email: vemulasubhash90@gmail.com
 
-🔗 LinkedIn:
+LinkedIn:
 https://www.linkedin.com/in/vemula-subhash-78aa7b217
-
-🔗 GitHub:
+GitHub:
 https://github.com/Subhash07-07
 
 ---
 
-⭐ If you found this project helpful, consider giving it a **Star** on GitHub.
+If you found this project helpful, consider giving it a **Star** on GitHub.
