@@ -61,7 +61,7 @@ Real-Time-Market-Research-and-Trend-Analysis-Go-To-Go-Cars
 
 ## 1. Market Growth Projection
 
-![Market Growth Projection](images/01_market_growth_projection.png)
+![Market Growth Projection](01_market_growth_projection.png)
 
 ---
 
