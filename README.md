@@ -67,67 +67,67 @@ Real-Time-Market-Research-and-Trend-Analysis-Go-To-Go-Cars
 
 ## 2. Revenue Comparison
 
-![Revenue Comparison](images/02_revenue_comparison.png)
+![Revenue Comparison](02_revenue_comparison.png)
 
 ---
 
 ## 3. User Growth Trajectory
 
-![User Growth](images/03_user_growth_trajectory.png)
+![User Growth](03_user_growth_trajectory.png)
 
 ---
 
 ## 4. Feature Comparison Radar Chart
 
-![Feature Radar](images/04_feature_radar.png)
+![Feature Radar](04_feature_radar.png)
 
 ---
 
 ## 5. Feature Heatmap
 
-![Feature Heatmap](images/05_feature_heatmap.png)
+![Feature Heatmap](05_feature_heatmap.png)
 
 ---
 
 ## 6. Customer Demographics Analysis
 
-![Demographics](images/06_demographics.png)
+![Demographics](06_demographics.png)
 
 ---
 
 ## 7. City Coverage Analysis
 
-![City Coverage](images/07_city_coverage.png)
+![City Coverage](07_city_coverage.png)
 
 ---
 
 ## 8. Customer Sentiment Analysis
 
-![Sentiment Analysis](images/08_sentiment_analysis.png)
+![Sentiment Analysis](08_sentiment_analysis.png)
 
 ---
 
 ## 9. SWOT Impact Analysis
 
-![SWOT Analysis](images/09_swot_impact.png)
+![SWOT Analysis](09_swot_impact.png)
 
 ---
 
 ## 10. Market Segment CAGR Analysis
 
-![Segment CAGR](images/10_segment_cagr.png)
+![Segment CAGR](10_segment_cagr.png)
 
 ---
 
 ## 11. Funding Comparison
 
-![Funding Comparison](images/11_funding_comparison.png)
+![Funding Comparison](11_funding_comparison.png)
 
 ---
 
 ## 12. Correlation Matrix
 
-![Correlation Matrix](images/12_correlation_matrix.png)
+![Correlation Matrix](12_correlation_matrix.png)
 
 ---
 
