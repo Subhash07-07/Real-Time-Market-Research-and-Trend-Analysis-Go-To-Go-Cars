@@ -53,7 +53,7 @@ Real-Time-Market-Research-and-Trend-Analysis-Go-To-Go-Cars
 
 ## Complete Business Intelligence Dashboard
 
-![Dashboard](all in one image of the project.png)
+![Dashboard](allinoneimageoftheproject.png)
 
 ---
 
